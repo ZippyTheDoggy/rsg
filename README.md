@@ -1,4 +1,5 @@
-# rojo-ts (rojo + roblox-ts)
+# rsg
+###### From the template: rojo-ts (rojo + roblox-ts)
 
 ### Requirements
 - Node
